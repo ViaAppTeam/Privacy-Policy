@@ -6,4 +6,4 @@
 
 - Requesting correction of personal data in case of incomplete or incorrect processing - Requesting the deletion or destruction of personal data
 
-- Saved data: – User ID – Server ID -- Server Channels Count
+- Saved data: – User ID – Server ID - Server Channels Count - Message Content
