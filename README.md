@@ -1,4 +1,4 @@
-# Privacy Policy ViaApp Discord Bot
+# Privacy Policy Modique Discord Bot
 
 - As Modique, work as data controller, with this personal protection policy; which personal training will be processed for what purpose, with whom and for what purpose the processed data can be shared, our data method and our legal reasons; What are your rights regarding your processed data?
 
